@@ -1,3 +1,5 @@
+# 🚧 Still developing this project. If you're interested, feel free to contribute!
+
 # My Structured MCP Project
 
 This project demonstrates a more structured Model Context Protocol (MCP) server using `FastMCP`.
